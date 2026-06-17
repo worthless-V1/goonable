@@ -3,9 +3,9 @@
     {
       "id": "folder-1",
       "title": "Folder 1",
-      "thumbnail": "images/folder-1/thumbnail.jpg",
+      "thumbnail": "folder-1/thumbnail.jpg",
       "photos": [
-        "images/folder-1/001.jpg",
+        "folder-1/001.jpg",
         "images/folder-1/002.jpg",
         "images/folder-1/003.jpg"
       ]
