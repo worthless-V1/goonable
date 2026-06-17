@@ -1,0 +1,39 @@
+{
+"folders": [
+{
+"name": "Folder 1",
+"thumbnail": "folder1/thumbnail.jpg",
+"photos": [
+"folder1/001.jpg",
+"folder1/002.jpg",
+"folder1/003.jpg"
+]
+},
+
+{
+  "name": "Folder 2",
+  "thumbnail": "folder2/thumbnail.jpg",
+  "photos": [
+    "folder2/001.jpg",
+    "folder2/002.jpg"
+  ]
+},
+
+{
+  "name": "Folder 3",
+  "thumbnail": "folder3/thumbnail.jpg",
+  "photos": [
+    "folder3/001.jpg"
+  ]
+},
+
+{
+  "name": "Folder 4",
+  "thumbnail": "folder4/thumbnail.jpg",
+  "photos": [
+    "folder4/001.jpg"
+  ]
+}
+
+]
+}
