@@ -1,0 +1,36 @@
+{
+  "folders": [
+    {
+      "id": "folder-1",
+      "title": "Folder 1",
+      "thumbnail": "images/folder-1/thumbnail.jpg",
+      "photos": [
+        "images/folder-1/001.jpg",
+        "images/folder-1/002.jpg",
+        "images/folder-1/003.jpg"
+      ]
+    },
+    {
+      "id": "folder-2",
+      "title": "Folder 2",
+      "thumbnail": "images/folder-2/thumbnail.jpg",
+      "photos": [
+        "images/folder-2/001.jpg",
+        "images/folder-2/002.jpg",
+        "images/folder-2/003.jpg"
+      ]
+    },
+    {
+      "id": "folder-3",
+      "title": "Folder 3",
+      "thumbnail": "",
+      "photos": []
+    },
+    {
+      "id": "folder-4",
+      "title": "Folder 4",
+      "thumbnail": "",
+      "photos": []
+    }
+  ]
+}
