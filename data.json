@@ -33,9 +33,26 @@
       "title": "Folder 2",
       "thumbnail": "images/folder-2/thumbnail.jpg",
       "photos": [
-        "images/folder-2/001.jpg",
-        "images/folder-2/002.jpg",
-        "images/folder-2/003.jpg"
+        "folder-2/001.jpg",
+        "folder-2/002.jpg",
+        "folder-2/003.jpg",
+        "folder-2/004.jpg",
+        "folder-2/005.jpg",
+        "folder-2/006.jpg",
+        "folder-2/007.jpg",
+        "folder-2/008.jpg",
+        "folder-2/009.jpg",
+        "folder-2/010.jpg",
+        "folder-2/011.jpg",
+        "folder-2/012.jpg",
+        "folder-2/013.jpg",
+        "folder-2/014.jpg",
+        "folder-2/015.jpg",
+        "folder-2/016.jpg",
+        "folder-2/017.jpg",
+        "folder-2/018.jpg",
+        "folder-2/019.jpg"
+        
       ]
     },
     {
