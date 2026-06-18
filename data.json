@@ -31,7 +31,7 @@
     {
       "id": "folder-2",
       "title": "Folder 2",
-      "thumbnail": "images/folder-2/thumbnail.jpg",
+      "thumbnail": "folder-2/thumbnail.jpg",
       "photos": [
         "folder-2/001.jpg",
         "folder-2/002.jpg",
