@@ -96,8 +96,38 @@
     {
       "id": "folder-4",
       "title": "Folder 4",
-      "thumbnail": "",
-      "photos": []
+      "thumbnail": "folder-4/thumbnail.webp",
+      "photos": [
+        "folder-4/001.webp",
+        "folder-4/002.webp",
+        "folder-4/003.webp",
+        "folder-4/004.webp",
+        "folder-4/005.webp",
+        "folder-4/006.webp",
+        "folder-4/007.webp",
+        "folder-4/008.webp",
+        "folder-4/009.webp",
+        "folder-4/010.webp",
+        "folder-4/011.webp",
+        "folder-4/012.webp",
+        "folder-4/013.webp",
+        "folder-4/014.webp",
+        "folder-4/015.webp",
+        "folder-4/016.webp",
+        "folder-4/017.webp",
+        "folder-4/018.webp",
+        "folder-4/019.webp",
+        "folder-4/020.webp",
+        "folder-4/021.webp",
+        "folder-4/022.webp",
+        "folder-4/023.webp",
+        "folder-4/024.webp",
+        "folder-4/025.webp",
+        "folder-4/026.webp",
+        "folder-4/027.webp",
+        "folder-4/028.webp",
+        
+      ]
     }
   ]
 }
