@@ -3,7 +3,7 @@
   "folders": [
     {
       "id": "folder-1",
-      "title": "Folder 1",
+      "title": "",
       "thumbnail": "folder-1/thumbnail.jpg",
       "photos": [
         "folder-1/001.jpg",
@@ -30,7 +30,7 @@
     },
     {
       "id": "folder-2",
-      "title": "Folder 2",
+      "title": "",
       "thumbnail": "folder-2/thumbnail.jpg",
       "photos": [
         "folder-2/001.jpg",
@@ -56,7 +56,7 @@
     },
     {
       "id": "folder-3",
-      "title": "Folder 3",
+      "title": "",
       "thumbnail": "folder-3/thumbnail.webp",
       "photos": [
         "folder-3/001.webp",
@@ -95,7 +95,7 @@
     },
     {
       "id": "folder-4",
-      "title": "Folder 4",
+      "title": "",
       "thumbnail": "folder-4/thumbnail.webp",
       "photos": [
         "folder-4/001.webp",
