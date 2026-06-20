@@ -125,8 +125,29 @@
     },
     {
       "id": "folder-5",
-      "thumbnail": "folder-5/thumbnail.jpg",
-      "photos": []
+      "thumbnail": "folder-5/thumbnail.webp",
+      "photos": [
+        "folder-5/001.webp",
+        "folder-5/002.webp",
+        "folder-5/003.webp",
+        "folder-5/004.webp",
+        "folder-5/005.webp",
+        "folder-5/006.webp",
+        "folder-5/007.webp",
+        "folder-5/008.webp",
+        "folder-5/009.webp",
+        "folder-5/010.webp",
+        "folder-5/011.webp",
+        "folder-5/012.webp",
+        "folder-5/013.webp",
+        "folder-5/014.webp",
+        "folder-5/015.webp",
+        "folder-5/016.webp",
+        "folder-5/017.webp",
+        "folder-5/018.webp",
+        "folder-5/019.webp",
+        "folder-5/020.webp"
+      ]
     },
     {
       "id": "folder-6",
