@@ -340,8 +340,19 @@
     },
     {
       "id": "folder-11",
-      "thumbnail": "folder-11/thumbnail.jpg",
-      "photos": []
+      "thumbnail": "folder-11/thumbnail.webp",
+      "photos": [
+        "folder-11/001.webp",
+        "folder-11/002.webp",
+        "folder-11/003.webp",
+        "folder-11/004.webp",
+        "folder-11/005.webp",
+        "folder-11/006.webp",
+        "folder-11/007.webp",
+        "folder-11/008.webp",
+        "folder-11/009.webp",
+        "folder-11/010.webp"
+      ]
     },
     {
       "id": "folder-12",
